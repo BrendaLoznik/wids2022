@@ -16,6 +16,6 @@ For this competition, I collaborated with Meyke Bos in team Techonistas. We won 
 - [Feature selection](https://github.com/BrendaLoznik/wids2022/blob/main/4_Feature_Selection.ipynb): Using VIFs to create feature sets
 - [Modelling](https://github.com/BrendaLoznik/wids2022/blob/main/5_Modelling.ipynb): Using a weighted voting regressor with a tuned random forest and XGBoost
 
-# Bonus
+### Bonus
 - [Adversarial validation](https://github.com/BrendaLoznik/wids2022/blob/main/6_Adversaerial_Validation.ipynb): What features are very different between the train and test set?
 - [Cross validation](https://github.com/BrendaLoznik/wids2022/blob/main/7_Cross_validation_Timeseries.ipynb): Using a rolling and sliding window during cross validation.
